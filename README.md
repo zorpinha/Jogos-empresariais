@@ -1,79 +1,105 @@
-Jogos empresariais
-Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
+# Jogos Empresariais (API) - 1º Semestre
 
-# Índice
+> 
 
-* [Projeto (API)](#projeto-api)
-* [Equipe](#equipe)
-* [Objetivo do Projeto](#objetivo-do-projeto)
-* [Cronograma das Sprints](#cronograma-das-sprints)
-* [Backlog do Produto](#backlog-do-produto)
-* [Burndown](#burndown)
-* [Competências Desenvolvidas](#competências-desenvolvidas)
-* [Autores](#autores)
+---
 
-# Projeto (API) 
-Este semestre estamos prestando consultoria a um parque de diversões que precisa otimizar seus processos para aumentar o numero de visitantes no parque.
+## 📝 Índice
 
-Sprint | Previsão | Status| Histórico|
-|------|--------|------|--------|
-|Kick Off | 30/08/2022 | concluido | [Ver Relatório](https://github.com/AndreLuizRibeiro/API-1SEM-022022-GPI/blob/main/Sprint%201/documento/Parque_de_divers%C3%B5es.pdf) | 
-|01 | 20/09/2022 | concluido | [Ver Relatório](https://github.com/AndreLuizRibeiro/API-1SEM-022022-GPI/blob/main/Sprint%201/documento/An%C3%A1lise%2BSWOT%2BGeral%20(1).docx) | 
-|02|  11/10/2022| concluido |[Ver Relatório](https://github.com/AndreLuizRibeiro/API-1SEM-022022-GPI/blob/main/Sprint%202/documento/canvas.docx) | 
-|03| 01/11/2022 | concluido |[Ver Relatório](https://github.com/AndreLuizRibeiro/API-1SEM-022022-GPI/blob/main/Sprint%203/documento/previsoes.xlsx) | 
-|04| 22/11/2022 | concluido |[Ver Relatório](https://github.com/AndreLuizRibeiro/API-1SEM-022022-GPI/blob/main/Sprint%204/documento/Estoques.docx) |
-|Feira de Soluções| 06/12/2022 | concluido |[Ver Relatório](https://github.com/AndreLuizRibeiro/API-1SEM-022022-GPI/blob/main/Sprint%204/documento/relatorio-projeto-integrador-1sem-GPI.docx) | 
+- [🚀 Status das Sprints](#-status-das-sprints)
+- [👥 Equipe e Orientadores](#-equipe-e-orientadores)
+- [🎯 Sobre e Objetivos do Projeto](#-sobre-o-projeto-e-objetivo-do-projeto)
+- [⚙️ Demonstração das Sprints](#️-funcionalidades-e-demonstrações-das-sprints)
+- [🖼️ Artefatos do Projeto](#️-artefatos-do-projeto)
+- [✍️ Autores](#️-autores)
 
-# Equipe
+---
+
+## 🚀 Status das Sprints
+
+Acompanhe o progresso do nosso projeto através da tabela de Sprints.
+
+| Sprint | Previsão | Status | Apresentação |
+| :--- | :---: | :---: | :---: |
+| Kick Off | 15/09/2025 | ✅ Em Andamento | - |
+| Sprint 01 | 03/10/2025 | ✅ Em Andamento | - |
+| Sprint 02 | 24/10/2025 | ✅ Em Andamento| -|
+| Sprint 03 | 14/11/2025 | ✅ Em Andamento | - |
+| Feira de Soluções| 04/12/2025 | ✅ Em Andamento | - |
+---
+
+## 👥 Equipe e Orientadores
+
+### Equipe de Desenvolvimento
+- **Bruno Pimenta** - *Scrum Master*
+- **Daniella Araujo** - *Team Member*
+- **Kauan Lucas** - *Team Member*
+- **Maria Eduarda** - *Product Owner*
+
+### Orientação
+- **Orientador:** Professor Mestre Carlos Eduardo Bastos
+- **Coorientador:** Professor Especialista Rubens Barreto da Silva
+
+---
+
+## Micro Certificações
 <p align="center">
- <img width="797" height="472" alt="image" src="https://github.com/user-attachments/assets/ed5cb72b-17f7-4249-9f4a-c870a38e7d40" />
-
+ <img src="https://img.shields.io/badge/STATUS-CONCLUÍDO-GREEN"/>
 </p>
 
-# Objetivo do Projeto
+---
 
-# Funcionalidades e Demonstrações das Sprints
+## 🎯 Sobre o Projeto e Objetivo Do Projeto
 
-## Sprint 1
 
-## Sprint 2
+---
 
-## Sprint 3
+## ⚙️ Funcionalidades e Demonstrações das Sprints
 
-## Tecnologias Utilizadas
+Cada Sprint representa um ciclo de entrega do projeto. Acesse os links para ver o detalhamento de cada etapa.
 
-### Produto 
 
-### Tecnológias Específicas/Apoio
+- **[Sprint 1 →]()**
   
+<details>
+<summary> veja a imagem </summary>
+
+</details>
+
+
+</details>
+
+---
+
+## 🛠️ Ferramentas e Tecnologias
+
+Estas foram as ferramentas que deram suporte ao nosso planejamento, análise e gerenciamento de projeto.
+
+| Ferramenta | Utilização |
+| :--- | :--- |
+| **Github** | Gerenciamento de tarefas e do backlog da Sprint. |
+
 ### Mindset Digital
-A equipe demonstrou uma abordagem aberta para a inovação desde o início do projeto, eles adotaram uma mentalidade de resolução de problemas e abordagem das mudança de maneira proativa.
 
-# Cronograma das Sprints
 
-## Cronograma
+---
+
+## 🖼️ Artefatos do Projeto
+
+### Cronograma
 Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsavel por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
 
-#### Cronograma das Sprints[(clique aqui)](https://github.com/users/AndreLuizRibeiro/projects/15)
+#### [Cronograma das Sprints (clique aqui)](https://github.com/users/zorpinha/projects/12/views/1)
+
+---
 
 
-## Backlog do produto
-<p align="center">
-  
-</p>
+## Checklists de Entrega das Sprints
 
-## Burndown
-<p align="center">
-  
-</p>
+### Sprint 1
+- [x] Kickoff
 
-## Sprint 1
-
-## Sprint 2
-      
-## Sprint 3
-      
-## Sprint 4
+---
 
 # Competências desenvolvidas
 
@@ -84,7 +110,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
   
 | Tecnologia/Metodologia | Classificação |
 | ---------------------- | ------------- |
-|  | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Trello | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
 
  
 </details>
@@ -96,20 +122,25 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 | Habilidades | Classificação |
 | ---------------------- | ------------- |
 | Proatividade | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Colaboração | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆  |
-| Trabalho em equipe |  ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Pontualidade | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆  |
-| Criatividade |  ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆  |
-| Comunicação |  ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆  |
+| Colaboração | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Trabalho em equipe |☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Pontualidade | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Criatividade | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Comunicação | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
 
 </details>
 
+---
 
-# Autores
-| Função | Nome |  LinkedIn & GitHub |
-| - | - | - |
-|Product Owner| Eric Nassif | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
-|Scrum Master| André Antunes | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
-|Team Member| André Ribeiro | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
-|Team Member| Edimar Ferreira | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
-|Team Member| Vitor Fernando | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
+
+## ✍️ Autores
+
+Conecte-se com a nossa equipe!
+
+| Função | Nome | Contato |
+| :--- | :--- | :--- |
+| **Scrum Master** | Bruno Pimenta | [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-pimenta-b787522b4/) [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/zorpinha) |
+| **Team Member** | Kauan Lucas | [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](...) [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](...) |
+| **Team Member** | Daniella Araujo| [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](...) [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](...) |
+| **Product Owner**| Maria Eduarda | [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](...) [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](...) |
+```
