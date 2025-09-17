@@ -35,10 +35,11 @@ Acompanhe o progresso do nosso projeto através da tabela de Sprints.
 - **Daniella Araujo** - *Team Member*
 - **Kauan Lucas** - *Team Member*
 - **Maria Eduarda** - *Product Owner*
+- **Vitor Augusto** - "Team Member*
 
 ### Orientação
-- **Orientador:** Professor Mestre Carlos Eduardo Bastos
-- **Coorientador:** Professor Especialista Rubens Barreto da Silva
+- **Orientador:** Verificar
+- **Coorientador:** Veriicar
 
 ---
 
@@ -58,16 +59,6 @@ Acompanhe o progresso do nosso projeto através da tabela de Sprints.
 
 Cada Sprint representa um ciclo de entrega do projeto. Acesse os links para ver o detalhamento de cada etapa.
 
-
-- **[Sprint 1 →]()**
-  
-<details>
-<summary> veja a imagem </summary>
-
-</details>
-
-
-</details>
 
 ---
 
@@ -89,7 +80,7 @@ Estas foram as ferramentas que deram suporte ao nosso planejamento, análise e g
 ### Cronograma
 Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsavel por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
 
-#### [Cronograma das Sprints (clique aqui)](https://github.com/users/zorpinha/projects/12/views/1)
+#### [Cronograma das Sprints (clique aqui)](https://github.com/users/zorpinha/projects/13)
 
 ---
 
