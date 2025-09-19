@@ -19,9 +19,9 @@
 
 Acompanhe o progresso do nosso projeto através da tabela de Sprints.
 
-| Sprint | Previsão | Status | Apresentação |
+| Sprint | Previsão | Status | Documentação |
 | :--- | :---: | :---: | :---: |
-| Kick Off | 15/09/2025 | ✅ Em Andamento | - |
+| Kick Off | 15/09/2025 | ✅ Concluído | [Ver Relatório](https://github.com/user-attachments/files/22416160/Requisitos.de.Cliente.PI.II.e.JE.-.GPI.2025.2.pdf) |
 | Sprint 01 | 03/10/2025 | ✅ Em Andamento | - |
 | Sprint 02 | 24/10/2025 | ✅ Em Andamento| -|
 | Sprint 03 | 14/11/2025 | ✅ Em Andamento | - |
@@ -35,7 +35,7 @@ Acompanhe o progresso do nosso projeto através da tabela de Sprints.
 - **Daniella Araujo** - *Team Member*
 - **Kauan Lucas** - *Team Member*
 - **Maria Eduarda** - *Product Owner*
-- **Vitor Augusto** - "Team Member*
+- **Vitor Augusto** - Team Member
 
 ### Orientação
 - **Orientador:** Verificar
@@ -52,13 +52,30 @@ Acompanhe o progresso do nosso projeto através da tabela de Sprints.
 
 ## 🎯 Sobre o Projeto e Objetivo Do Projeto
 
+O principal objetivo é que os alunos do 2º período de GPI analisem um sistema produtivo para identificar seus principais recursos e processos. A ideia é avaliar a eficiência das operações usando indicadores importantes como capacidade, tempos de ciclo, produtividade e utilização de recursos.
 
+**Tecnologias Exigidas:**
+
+o RN.P.1. Utilizar softwares de BI para ilustrar os dados de operações e
+produção.
+o RN.P.2. Publicar os resultados obtidos em um portal online com a
+possibilidade de compartilhamento com a comunidade.
+o RN.P.3. Utilizar o GitHub para controle de versão.
+o RN.P.4. Apresentação em eventos acadêmicos, feiras tecnológicas e
+bancas de avaliação.
 ---
 
 ## ⚙️ Funcionalidades e Demonstrações das Sprints
 
 Cada Sprint representa um ciclo de entrega do projeto. Acesse os links para ver o detalhamento de cada etapa.
 
+- **[Sprint 1 →]()** em andanmento
+- Etapa de realização do download dos dados, tratametnos e conversão.
+  
+<details>
+<summary> veja a imagem </summary>
+
+</details>
 
 ---
 
