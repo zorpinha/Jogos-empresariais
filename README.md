@@ -56,13 +56,11 @@ O principal objetivo é que os alunos do 2º período de GPI analisem um sistema
 
 **Tecnologias Exigidas:**
 
-o RN.P.1. Utilizar softwares de BI para ilustrar os dados de operações e
-produção.
-o RN.P.2. Publicar os resultados obtidos em um portal online com a
-possibilidade de compartilhamento com a comunidade.
-o RN.P.3. Utilizar o GitHub para controle de versão.
-o RN.P.4. Apresentação em eventos acadêmicos, feiras tecnológicas e
-bancas de avaliação.
+o RN.P.1. Utilizar softwares de BI para ilustrar os dados de operações e produção.  
+o RN.P.2. Publicar os resultados obtidos em um portal online com a possibilidade de compartilhamento com a comunidade.  
+o RN.P.3. Utilizar o GitHub para controle de versão.   
+o RN.P.4. Apresentação em eventos acadêmicos, feiras tecnológicas e bancas de avaliação.  
+
 ---
 
 ## ⚙️ Funcionalidades e Demonstrações das Sprints
