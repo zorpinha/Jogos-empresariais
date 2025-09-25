@@ -33,7 +33,6 @@ Acompanhe o progresso do nosso projeto através da tabela de Sprints.
 ### Equipe de Desenvolvimento
 - **Bruno Pimenta** - *Scrum Master*
 - **Daniella Araujo** - *Team Member*
-- **Kauan Lucas** - *Team Member*
 - **Maria Eduarda** - *Product Owner*
 - **Vitor Augusto** - Team Member
 
