@@ -66,11 +66,12 @@ o RN.P.4. Apresentação em eventos acadêmicos, feiras tecnológicas e bancas d
 
 Cada Sprint representa um ciclo de entrega do projeto. Acesse os links para ver o detalhamento de cada etapa.
 
-- **[Sprint 1 →](https://github.com/zorpinha/Jogos-empresariais/blob/89826a40b3b5f2aa76a4c0700aaa8e3735ead2c3/sprints/Sprint%201.md)** em andanmento
-- Etapa de realização do download dos dados, tratametnos e conversão.
+- **[Sprint 1 →](https://github.com/zorpinha/Jogos-empresariais/blob/89826a40b3b5f2aa76a4c0700aaa8e3735ead2c3/sprints/Sprint%201.md)** Etapa de realização do download dos dados, tratametnos e conversão.
   
 <details>
 <summary> veja a imagem </summary>
+
+![msedge_qBJo6xCjbw](https://github.com/user-attachments/assets/0dfcdf70-9a56-43c7-ba1f-e724666f4e89)
 
 </details>
 
