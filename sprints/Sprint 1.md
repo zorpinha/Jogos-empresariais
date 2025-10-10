@@ -6,9 +6,9 @@ Este repositório documenta o **Sprint 1 de 2025**, cujo objetivo foi **coletar,
 ---
 
 ## 📁 Sumário  
-1. [Etapa 1 — Conversão e Tratamento de Dados](#etapa-1--conversão-e-tratamento-de-dados)  
-2. [Etapa 2 — Montagem do Dashboard no Power BI](#etapa-2--montagem-do-dashboard-no-power-bi)  
-3. [Fontes e Referências](#fontes-e-referências)  
+[Etapa 1 — Conversão e Tratamento de Dados](#etapa-1--conversão-e-tratamento-de-dados)  
+[Etapa 2 — Montagem do Dashboard no Power BI](#etapa-2--montagem-do-dashboard-no-power-bi)  
+[Fontes e Referências](#fontes-e-referências)  
 
 ---
 
