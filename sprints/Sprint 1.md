@@ -72,7 +72,6 @@ Mapa interativo exibindo a **origem das importações por país**, destacando os
 
 ### 🌐 Acesso direto  
 - [📊 Visualizar no Power BI](https://app.powerbi.com/view?r=eyJrIjoiYzU3OTdjZmEtMjY5NS00ZWQ3LTg1NGEtMjZkMmQ5ODE1YjJhIiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9)  
-- [📂 Arquivo Power BI (.pbix)]() *(link a adicionar)*  
 
 ---
 
