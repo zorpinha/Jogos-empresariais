@@ -75,6 +75,14 @@ Cada Sprint representa um ciclo de entrega do projeto. Acesse os links para ver 
 
 </details>
 
+- **[Sprint 2 →](https://github.com/zorpinha/Jogos-empresariais/blob/a070455c45cf774956c509535cafe91107e02e9e/sprints/sprint%202.md)** Etapa de realização do download dos dados, tratametnos e conversão.
+  
+<details>
+<summary> veja a imagem </summary>
+
+
+</details>
+
 ---
 
 ## 🛠️ Ferramentas e Tecnologias
