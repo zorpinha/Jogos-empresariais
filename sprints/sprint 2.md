@@ -49,8 +49,9 @@ O ano foi definido por uma produção "para-e-anda".
 * **Prova (Importação):** Vimos um pico claro no **Preço Médio de Importação** em Agosto. Isso foi a compra desesperada de chips (leves e caros) no mercado "spot" a preços absurdos.
 * **Prova (Exportação):** Como resultado direto, o FOB e o Peso da exportação tiveram um "sprint" em Agosto, quando esses chips chegaram e permitiram finalizar os carros parados no pátio.
 
-<summary> veja as imagens </summary>
+
 <details>    
+<summary> veja as imagens </summary> 
     
 <img width="1116" height="624" alt="image" src="https://github.com/user-attachments/assets/204a7794-7cd0-4067-9b52-0d20cce7f089" />
 Dashboard **Resumo Executivo' (Importação 2021)**
@@ -68,9 +69,9 @@ O "Efeito Xangai" (lockdowns na Ásia) paralisou a cadeia de suprimentos.
 * **Prova (Exportação):** A indústria passou 8 meses em **"Modo Sobrevivência"** (exportando peças baratas, com Preço Médio *zerado*), até que as peças da importação chegaram, permitindo um **"Sprint Final"** de carros prontos em Setembro/Outubro.
 * **Prova (Geográfica):** A crise **quebrou a GM (SJC)**, (dependente da Ásia), mas **poupou a VW (Taubaté)** (dependente da Europa).
 
-<summary> veja as imagens </summary>
+
 <details>    
-    
+<summary> veja as imagens </summary>
 <img width="1111" height="627" alt="image" src="https://github.com/user-attachments/assets/38ea4db6-98e9-49ec-8e73-e1ccd6cb82a6" />
 Dashboard **Resumo Executivo (Importação 2022)**
   
@@ -91,9 +92,10 @@ O evento-chave foi o **Programa de Incentivo (MP 1.175)** para "carros populares
 * **Prova (Importação):** A análise geográfica mostrou a **VW (TBT) acelerando** a importação para o programa, enquanto a **GM (SJC)** "pisou no freio".
 
 
-<summary> veja a imagem </summary>
+
 <details>    
-    
+<summary> veja a imagem </summary>
+ 
 <img width="1106" height="627" alt="image" src="https://github.com/user-attachments/assets/114da195-6c8a-468d-bd64-83f46dc30d38" />
 Dashboard **Produtos (Exportação 2023) - Filtrado**
 
@@ -108,8 +110,9 @@ O ano do "divórcio": a exportação colapsou enquanto a importação (focada no
 * **Prova (Exportação):** A exportação da **GM (SJC) colapsou**, ficando quase zerada o ano todo. A VW (TBT) sobreviveu com "vendas de oportunidade".
 * **Prova (Importação):** A importação continuou forte, com picos claros, provando que as fábricas estavam saudáveis e focadas 100% no **mercado interno brasileiro**.
 
-<summary> veja as imagens </summary>
+
 <details>    
+<summary> veja as imagens </summary>
 
 <img width="1113" height="618" alt="image" src="https://github.com/user-attachments/assets/f05fd0a3-1c9e-4e25-8562-00cde32ecf4c" />
 Dashboard **'Geográfic (Exportação 2024) - Filtro SJC**
@@ -128,8 +131,9 @@ Dashboard **Resumo Executivo (Importação 2024) - Filtrado**
 * **Importação (A Transformação):** Os valores de importação (TBT $2.6Bi, SJC $1.0Bi) estão "jamais vistos".
     * **Prova:** Isso não é importação de "peças". É o **novo ciclo de investimento bilionário** (máquinas, robôs) para a eletrificação e carros híbridos.
 
-<summary> veja as imagens </summary>
+
 <details>    
+<summary> veja as imagens </summary>
   
 <img width="1118" height="615" alt="image" src="https://github.com/user-attachments/assets/72065f08-a77d-4582-8352-f6aac864044a" />
 Dashboard **Geográfico (Exportação 2025) - Filtro SJC**
