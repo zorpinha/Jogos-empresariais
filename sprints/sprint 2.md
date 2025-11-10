@@ -18,12 +18,20 @@ O primeiro passo da análise foi identificar que os dados "gerais" da região s�
 **Para uma análise pura, todos os dados a seguir foram filtrados para excluir o NCM 8801/8802 e focar *apenas* no setor automotivo (GM, VW, fornecedores, etc.).**
 
 ## Antes do filtro:
+
+<details>
 <summary> veja a imagem </summary>
-<details> <img width="1109" height="622" alt="image" src="https://github.com/user-attachments/assets/e273520a-94d3-4589-97d8-54e20259c54d" /> </details>
+    <img width="1109" height="622" alt="image" src="https://github.com/user-attachments/assets/e273520a-94d3-4589-97d8-54e20259c54d" /> 
+
+</details>
 
 ## Depois do Filtro
+
+<details> 
 <summary> veja a imagem </summary>
-<details> <img width="1111" height="620" alt="image" src="https://github.com/user-attachments/assets/3e60f86f-9d42-4b5f-a1da-edfbbc6d48dd" /> </details>
+<img width="1111" height="620" alt="image" src="https://github.com/user-attachments/assets/3e60f86f-9d42-4b5f-a1da-edfbbc6d48dd" /> 
+    
+</details>
 
 
 ---
@@ -141,6 +149,8 @@ Dashboard **Geográfico (Exportação 2025) - Filtro SJC**
 <img width="1117" height="620" alt="image" src="https://github.com/user-attachments/assets/df596cea-079b-40b2-a80e-72c32ad12fa2" />
   
 Dashboard **Geográfico (Importação 2025) - Filtro TBT**
+
+</details>
 
 ---
 
