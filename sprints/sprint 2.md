@@ -1,25 +1,151 @@
 # 📊 Dashboard: Análise de Importação e Exportação (2021-2025)
 ![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
 
-## 🎯 Objetivo do Projeto
-Analisar dados estratégicos sobre o mercado de importação e exportação do Vale do Paraíba, com foco nos setores Automotivo (GM, VW) 2021 a 2025
+**Objetivo:** O objetivo deste projeto foi analisar dados de importação e exportação de 2021 a 2025 para entender as tendências, crises e reações estratégicas das indústrias do Vale do Paraíba.
 
-O objetivo era identificar padrões, entender o impacto de crises (como a dos semicondutores e lockdowns) e descobrir as estratégias de mercado dos principais players da região.
+---
 
-## 🚀 Dashboard Interativo (O Resultado Final)
+# 📈 Análise da Balança Comercial Automotiva do Vale do Paraíba (2021-2025)
 
-*Demonstração da funcionalidade de filtro lateral e da tela de "Extensão Geográfica":*
-![PBIDesktop_6lcO3htdH1](https://github.com/user-attachments/assets/6c19ac04-bd43-49b2-bd76-7c044bb52cdb)
+Este documento é o sumário executivo da análise de 5 anos da balança comercial (importação e exportação) do setor automotivo do Vale do Paraíba. A análise identifica os impactos de crises globais e decisões estratégicas locais na economia da região.
 
-## 📖 A História Descoberta (Principais Insights)
+---
 
-A análise revelou a jornada completa de 5 anos do setor automotivo da região:
+## 🎯 Metodologia: A Descoberta Chave (Filtrando o Ruído)
 
-* **2021: A Crise dos Chips:** Um "para-e-anda" constante, provado pela importação de chips caros e "sprints" de produção.
-* **2022: A Crise Logística (Efeito Xangai):** A cadeia da GM (SJC) quebrou, enquanto a da VW (TBT) (focada na Europa) sobreviveu.
-* **2023: O Foco Interno:** O programa de incentivo do governo "canibalizou" a exportação, forçando o foco 100% no mercado interno.
-* **2024: O Colapso da Argentina:** A exportação automotiva (especialmente da GM) quebrou, mas a importação (focada no Brasil) continuou forte.
-* **2025: A Solução (Diversificação e Investimento):** A indústria reage buscando novos mercados e inicia um ciclo de investimento bilionário para eletrificação.
+O primeiro passo da análise foi identificar que os dados "gerais" da região são fortemente distorcidos pelo **Setor Aeroespacial (Embraer)**, cujas exportações de aeronaves (NCM 8801/8802) têm um valor bilionário e volátil, mascarando a realidade do setor automotivo.
+
+**Para uma análise pura, todos os dados a seguir foram filtrados para excluir o NCM 8801/8802 e focar *apenas* no setor automotivo (GM, VW, fornecedores, etc.).**
+
+## Antes do filtro:
+<summary> veja a imagem </summary>
+<details> <img width="1109" height="622" alt="image" src="https://github.com/user-attachments/assets/e273520a-94d3-4589-97d8-54e20259c54d" /> </details>
+
+## Depois do Filtro
+<summary> veja a imagem </summary>
+<details> <img width="1111" height="620" alt="image" src="https://github.com/user-attachments/assets/3e60f86f-9d42-4b5f-a1da-edfbbc6d48dd" /> </details>
+
+
+---
+
+## 🗺️ A Jornada de 5 Anos: O Resumo
+
+A história do setor automotivo no Vale pode ser dividida em 5 fases claras:
+
+* **2021:** A Crise dos Semicondutores
+* **2022:** A Crise Logística (O "Efeito Xangai")
+* **2023:** O "Canibalismo" do Mercado Interno (Incentivo do Governo)
+* **2024:** O Colapso do Mercado Externo (A Crise da Argentina)
+* **2025:** A Nova Realidade: Diversificação e Investimento Bilionário
+
+---
+
+## 📊 Análise Ano a Ano (2021-2025)
+
+### 2021: A Crise dos Semicondutores
+
+O ano foi definido por uma produção "para-e-anda".
+
+* **Prova (Importação):** Vimos um pico claro no **Preço Médio de Importação** em Agosto. Isso foi a compra desesperada de chips (leves e caros) no mercado "spot" a preços absurdos.
+* **Prova (Exportação):** Como resultado direto, o FOB e o Peso da exportação tiveram um "sprint" em Agosto, quando esses chips chegaram e permitiram finalizar os carros parados no pátio.
+
+<summary> veja as imagens </summary>
+<details>    
+    
+<img width="1116" height="624" alt="image" src="https://github.com/user-attachments/assets/204a7794-7cd0-4067-9b52-0d20cce7f089" />
+Dashboard **Resumo Executivo' (Importação 2021)**
+  
+<img width="1109" height="626" alt="image" src="https://github.com/user-attachments/assets/cf9f32e9-d3af-4027-b7d6-16e43723b5d3" />
+Dashboard **Resumo Executivo' (Exportação 2021)**
+
+</details>
+
+### 2022: A Crise Logística e a Cisão Geográfica
+
+O "Efeito Xangai" (lockdowns na Ásia) paralisou a cadeia de suprimentos.
+
+* **Prova (Importação):** Um "dilúvio" de navios atrasados da Ásia chegou de uma só vez, causando um pico gigantesco de FOB e Peso em **Julho/Agosto**.
+* **Prova (Exportação):** A indústria passou 8 meses em **"Modo Sobrevivência"** (exportando peças baratas, com Preço Médio *zerado*), até que as peças da importação chegaram, permitindo um **"Sprint Final"** de carros prontos em Setembro/Outubro.
+* **Prova (Geográfica):** A crise **quebrou a GM (SJC)**, (dependente da Ásia), mas **poupou a VW (Taubaté)** (dependente da Europa).
+
+<summary> veja as imagens </summary>
+<details>    
+    
+<img width="1111" height="627" alt="image" src="https://github.com/user-attachments/assets/38ea4db6-98e9-49ec-8e73-e1ccd6cb82a6" />
+Dashboard **Resumo Executivo (Importação 2022)**
+  
+<img width="1105" height="613" alt="image" src="https://github.com/user-attachments/assets/d68a72f5-be54-4a97-8996-1b850ccbbc92" />
+Dashboard **Geográfico (Exportação 2022) - Filtro SJC**
+  
+<img width="1111" height="618" alt="image" src="https://github.com/user-attachments/assets/934a0468-7a68-4128-ac11-b596fa9f2718" />
+Dashboard **Geográfico (Exportação 2022) - Filtro TBT**
+
+
+</details>
+
+### 2023: O "Canibalismo" do Mercado Interno
+
+O evento-chave foi o **Programa de Incentivo (MP 1.175)** para "carros populares" (Junho).
+
+* **Prova (Exportação):** As linhas de produtos de exportação (Carros e Motores) **despencam e morrem a partir de Julho**. A demanda interna "canibalizou" 100% da produção, "desligando" a exportação.
+* **Prova (Importação):** A análise geográfica mostrou a **VW (TBT) acelerando** a importação para o programa, enquanto a **GM (SJC)** "pisou no freio".
+
+
+<summary> veja a imagem </summary>
+<details>    
+    
+<img width="1106" height="627" alt="image" src="https://github.com/user-attachments/assets/114da195-6c8a-468d-bd64-83f46dc30d38" />
+Dashboard **Produtos (Exportação 2023) - Filtrado**
+
+</details>
+
+
+### 2024: O Colapso Externo (Crise da Argentina)
+
+O ano do "divórcio": a exportação colapsou enquanto a importação (focada no Brasil) seguia forte.
+
+* **O Evento:** A grave crise econômica na Argentina, principal cliente de exportação do Vale.
+* **Prova (Exportação):** A exportação da **GM (SJC) colapsou**, ficando quase zerada o ano todo. A VW (TBT) sobreviveu com "vendas de oportunidade".
+* **Prova (Importação):** A importação continuou forte, com picos claros, provando que as fábricas estavam saudáveis e focadas 100% no **mercado interno brasileiro**.
+
+<summary> veja as imagens </summary>
+<details>    
+
+<img width="1113" height="618" alt="image" src="https://github.com/user-attachments/assets/f05fd0a3-1c9e-4e25-8562-00cde32ecf4c" />
+Dashboard **'Geográfic (Exportação 2024) - Filtro SJC**
+  
+<img width="1110" height="618" alt="image" src="https://github.com/user-attachments/assets/8b891eaa-730a-4f47-bab0-9e42d517d409" />
+Dashboard **Resumo Executivo (Importação 2024) - Filtrado**
+
+
+</details>
+
+### 2025: A Nova Realidade (Diversificação e Investimento)
+
+2025 é a reação estratégica ao colapso de 2024.
+
+* **Exportação (A Reconstrução):** A GM (SJC) inicia sua nova estratégia. Vemos seu **Nº de Operações subir**, mas seu **FOB continuar baixo**. Isso é a prova da **"diversificação"**: vender *peças baratas* para *novos mercados* (EUA) para se reerguer.
+* **Importação (A Transformação):** Os valores de importação (TBT $2.6Bi, SJC $1.0Bi) estão "jamais vistos".
+    * **Prova:** Isso não é importação de "peças". É o **novo ciclo de investimento bilionário** (máquinas, robôs) para a eletrificação e carros híbridos.
+
+<summary> veja as imagens </summary>
+<details>    
+  
+<img width="1118" height="615" alt="image" src="https://github.com/user-attachments/assets/72065f08-a77d-4582-8352-f6aac864044a" />
+Dashboard **Geográfico (Exportação 2025) - Filtro SJC**
+  
+<img width="1117" height="620" alt="image" src="https://github.com/user-attachments/assets/df596cea-079b-40b2-a80e-72c32ad12fa2" />
+  
+Dashboard **Geográfico (Importação 2025) - Filtro TBT**
+
+---
+
+## 🎓 Conclusões Finais
+
+1.  **A Análise Correta:** É impossível analisar o Vale sem filtrar o setor Aeroespacial.
+2.  **Cadeias Diferentes:** A cadeia da VW (Europeia) se mostrou mais resiliente a crises logísticas (2022) que a da GM (Asiática).
+3.  **O Foco do Vale:** O cliente principal do Vale é o **Mercado Interno Brasileiro**. A exportação é "sacrificada" quando o Brasil demanda (2023) e "quebra" quando a Argentina quebra (2024).
+4.  **O Futuro:** 2025 marca o fim da era das crises e o início da **era do investimento** em eletrificação.
 
 
 ---
@@ -1219,3 +1345,6 @@ Um Vale (ex: Jan 2025, Jun 2025): É um mês em que não houve uma grande entreg
 
 🎓 Conclusão Final
 A história que você descobriu está completa. A importação de 2024-2025 prova que o Vale do Paraíba está saindo de um ciclo de 4 anos de crises (Chips, Logística, Argentina) e entrando em um novo ciclo de investimento bilionário focado na eletrificação.
+
+
+
