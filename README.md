@@ -23,7 +23,7 @@ Acompanhe o progresso do nosso projeto através da tabela de Sprints.
 | :--- | :---: | :---: | :---: |
 | Kick Off | 15/09/2025 | ✅ Concluído | [Ver Relatório](https://github.com/user-attachments/files/22416160/Requisitos.de.Cliente.PI.II.e.JE.-.GPI.2025.2.pdf) |
 | Sprint 01 | 03/10/2025 | ✅ Concluído | [Ver Relatório](https://github.com/zorpinha/Jogos-empresariais/blob/5e1f55867ed2838a0584764dadd21dfb8ced138b/sprints/Sprint%201.md) |
-| Sprint 02 | 10/11/2025 | ✅ Em Andamento| - |
+| Sprint 02 | 10/11/2025 | ✅ Concluído | [-](https://github.com/zorpinha/Jogos-empresariais/blob/7468839f753755f450e1ada331d13dac501257e4/sprints/Sprint%202.md) |
 | Sprint 03 | 24/11/2025 | ✅ Em Andamento | - |
 | Feira de Soluções| 04/12/2025 | ✅ Em Andamento | - |
 ---
@@ -75,10 +75,12 @@ Cada Sprint representa um ciclo de entrega do projeto. Acesse os links para ver 
 
 </details>
 
-- **[Sprint 2 →](https://github.com/zorpinha/Jogos-empresariais/blob/a070455c45cf774956c509535cafe91107e02e9e/sprints/sprint%202.md)** Etapa de realização do download dos dados, tratametnos e conversão.
+- **[Sprint 2 →](https://github.com/zorpinha/Jogos-empresariais/blob/7468839f753755f450e1ada331d13dac501257e4/sprints/Sprint%202.md)** Etapa de realização do download dos dados, tratametnos e conversão.
   
 <details>
 <summary> veja a imagem </summary>
+
+![PBIDesktop_6lcO3htdH1](https://github.com/user-attachments/assets/28d5d26f-6dc9-4856-8f28-665e8c6d2f40)
 
 
 </details>
@@ -127,7 +129,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
   
 | Tecnologia/Metodologia | Classificação |
 | ---------------------- | ------------- |
-| Trello | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Projects GitHub | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
 
  
 </details>
@@ -138,12 +140,12 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 | Habilidades | Classificação |
 | ---------------------- | ------------- |
-| Proatividade | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Colaboração | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Trabalho em equipe |☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Pontualidade | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Criatividade | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Comunicação | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Proatividade |  ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| Colaboração |  ★ ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Trabalho em equipe | ★ ★ ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Pontualidade | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
+| Criatividade |  ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
+| Comunicação |  ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆|
 
 </details>
 
