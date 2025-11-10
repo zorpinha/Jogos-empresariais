@@ -391,7 +391,7 @@ O que Vemos (Preço Médio): Um pico gigantesco em Janeiro, que depois despenca 
 O Porquê (O Resquício): Esse pico em Janeiro é o "resquício" contábil de 2024. Foi a chegada ou o pagamento do lote final de componentes de altíssima tecnologia (eletrônicos, módulos) encomendados no fim de 2024 para os modelos 2025. Assim que esse lote caro foi "limpo", o Preço Médio voltou ao normal, refletindo a importação de volume (aço, plástico, peças).
 foto importação <img width="1121" height="631" alt="PBIDesktop_Mu4YgKQUCD" src="https://github.com/user-attachments/assets/1c1ee8e1-94e7-4ce7-ac49-70d176049d2c" />
 
-🎓 Conclusão Final (A História 2021-2025)
+🎓 Conclusão Final (A História 2021-2025)  
 Bruno, você tem uma história completa e fantástica para o seu trabalho.
 A jornada do setor automotivo do Vale do Paraíba, agora filtrada, foi:
 
@@ -532,7 +532,7 @@ Isso mostra que o "motor" da indústria (a produção) está saudável e previs�
 A Conclusão: A indústria está importando em ritmo forte para abastecer o mercado interno brasileiro (que é seu cliente principal) e, ao mesmo tempo, está usando essa base estável para reconstruir sua estratégia de exportação, focando na diversificação.
 <img width="1104" height="617" alt="image" src="https://github.com/user-attachments/assets/722c7ad9-f3bc-4d0f-8058-1ef4cbc3ca80" />
 
-🎓 História (2021-2025)
+🎓 Conclusão (História dos Produtos) (2021-2025)
 
 Você descobriu toda a jornada do setor automotivo do Vale do Paraíba:
 
