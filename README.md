@@ -110,16 +110,6 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 ---
 
 
-## Checklists de Entrega das Sprints
-
-### Sprint 1
-- [x] Kickoff
-- [x] Dados
-- [x] Tratamento dos dados
-- [x] Dashboard
-
- ---
-
 # Competências desenvolvidas
 
 
