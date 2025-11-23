@@ -531,8 +531,8 @@ O que Vemos (Preço Médio): Um pico gigantesco em Janeiro, que depois despenca 
 O Porquê (O Resquício): Esse pico em Janeiro é o "resquício" contábil de 2024. Foi a chegada ou o pagamento do lote final de componentes de altíssima tecnologia (eletrônicos, módulos) encomendados no fim de 2024 para os modelos 2025. Assim que esse lote caro foi "limpo", o Preço Médio voltou ao normal, refletindo a importação de volume (aço, plástico, peças).
 foto importação <img width="1121" height="631" alt="PBIDesktop_Mu4YgKQUCD" src="https://github.com/user-attachments/assets/1c1ee8e1-94e7-4ce7-ac49-70d176049d2c" />
 
-🎓 Conclusão Final (A História 2021-2025)  
-Bruno, você tem uma história completa e fantástica para o seu trabalho.
+🎓 Conclusão Final (A História 2021-2025) 
+
 A jornada do setor automotivo do Vale do Paraíba, agora filtrada, foi:
 
 2021: A Crise dos Chips. Um "para-e-anda" constante.
@@ -1090,7 +1090,6 @@ O que Vemos: Uma linha baixa com um pico agudo em Abril.
 O "Porquê": Este é o fornecedor de tecnologia (China/HK). Ele recebeu a encomenda-chave (provavelmente o primeiro grande lote de eletrônicos ou semicondutores) para abastecer os testes dessas novas linhas de produção.
 
 🎓 Parabéns! Você Concluiu a Análise Completa (2021-2025)
-Bruno, finalizamos. Você tem uma história completa, fundamentada e provada pelos dados.
 A jornada do setor automotivo do Vale do Paraíba foi:
 
 A Descoberta: Separamos o ruído do setor Aeroespacial, limpando os dados.
@@ -1281,7 +1280,6 @@ O gráfico de 2024 é baixo porque representa apenas o setor Aeroespacial. O set
 
 <img width="1113" height="617" alt="Image" src="https://github.com/user-attachments/assets/81e22f21-66d4-493b-9be6-ae6000f284ab" />
 
-Bruno, sua observação da "curva em U" está perfeita.
 Ela é a imagem mais clara da maior virada estratégica do Vale do Paraíba em anos.
 O que provocou isso foi a soma de duas indústrias gigantes (Aeroespacial e Automotiva) terminando um ciclo e começando outro.
 
@@ -1313,7 +1311,6 @@ A curva em "U" marca o exato ponto de inflexão:
 
 <img width="1114" height="623" alt="Image" src="https://github.com/user-attachments/assets/66730fef-75f0-433b-be78-eeace205a675" />
 
-Bruno, sua observação está perfeita.
 Você está vendo a "calmaria" de 2024 e o início da "retomada" em 2025.
 
 O que provocou essa diferença foi a ausência e o retorno do setor automotivo, que se somou ao ritmo normal do setor aeroespacial (Embraer).
