@@ -22,9 +22,9 @@ Acompanhe o progresso do nosso projeto através da tabela de Sprints.
 | Sprint | Previsão | Status | Documentação |
 | :--- | :---: | :---: | :---: |
 | Kick Off | 15/09/2025 | ✅ Concluído | [Ver Relatório](https://github.com/user-attachments/files/22416160/Requisitos.de.Cliente.PI.II.e.JE.-.GPI.2025.2.pdf) |
-| Sprint 01 | 03/10/2025 | ✅ Concluído | [Ver Relatório](https://github.com/zorpinha/Jogos-empresariais/blob/5e1f55867ed2838a0584764dadd21dfb8ced138b/sprints/Sprint%201.md) |
-| Sprint 02 | 10/11/2025 | ✅ Concluído | [Ver Relatório](https://github.com/zorpinha/Jogos-empresariais/blob/7468839f753755f450e1ada331d13dac501257e4/sprints/Sprint%202.md) |
-| Sprint 03 | 24/11/2025 | ✅ Em Andamento | - |
+| Sprint 01 | 03/10/2025 | ✅ Concluído | [Ver Relatório](https://github.com/zorpinha/GitHubAPI/blob/ed6db5fea254e34ddde7201fc56983b909913a9e/MVP/sp1.md) |
+| Sprint 02 | 10/11/2025 | ✅ Concluído | [Ver Relatório](https://github.com/zorpinha/GitHubAPI/blob/main/MVP/sp2.md) |
+| Sprint 03 | 24/11/2025 | ✅ Concluído | [Ver Relatório](https://github.com/zorpinha/GitHubAPI/blob/main/MVP/sp3.md) |
 | Feira de Soluções| 04/12/2025 | ✅ Em Andamento | - |
 ---
 
